@@ -12,14 +12,13 @@
 <!--
 **nour-gab/nour-gab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently learning Transformers and GANs
 - 🌱 I’m currently learning Data/ML/DL
 - 👯 I’m looking to collaborate on deep learning projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Deployement and 
 - 💬 Ask me about Data Engineering, Computer Vision, NLPs, Community Building, Design Thinking
 - 📫 How to reach me: in/nour-gaboussa/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love graphic design
+
