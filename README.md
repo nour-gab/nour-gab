@@ -21,4 +21,4 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Data Engineering, Computer Vision, NLPs, Community Building, Design Thinking
 - 📫 How to reach me: in/nour-gaboussa/
 - ⚡ Fun fact: I love graphic design
-<p>
+</p>
